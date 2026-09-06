@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # ─── TELEGRAM CONFIG ──────────────────────────────────────
-BOT_TOKEN = "8802900336:AAH-kjC7LYFHu60nAkKfSCZqc28AiRrB89M"
+BOT_TOKEN = "8810691058:AAEzwc6Cu__7vTI6p95h8kKCOmQBt0verEU"
 ADMIN_ID = 8401097557
 
 # ─── URLS ──────────────────────────────────────────────
