@@ -1,2 +1,4 @@
+requests
+
 aiohttp
 python-telegram-bot[job-queue]
